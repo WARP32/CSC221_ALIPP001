@@ -1,0 +1,1 @@
+For the find your own API online that provides access to data you are personally interested in. I tried to do that with YouTube Data API v3 through google cloud but I couldnt figure out how to get around the api key error, even when I got an api key through google it would still fail and say the key was invalid.
